@@ -1,0 +1,12 @@
+1. brew (done)
+2. homebrew-cask (caskroom.io) (done)
+3. git (done)
+4. setup ssh and generate new keys (done) 
+5. rbenv (done)
+6. ruby-build (done)
+7. dotfiles  (done)
+8. editor (atom - rspec ruby minitests) (pacakages used rspec ruby-test (for c++
+script ) ( done)
+9. ruby 2.20 set deault as global  (done) 
+10. gem install { rspec ; minitest }
+
